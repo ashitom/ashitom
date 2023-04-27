@@ -5,7 +5,7 @@ Thomas Ashi has 17+ years of digital transformation experience, starting out as 
 # Past Achievements
 
 + Developed first bespoke application for global trade, nicknamed Trade Tracker, in Nigeria's Banking Industry. 
-+ Drove customer acquisition of defunct Diamond Bank of Nigeria, from about 1000 customers per day to over 12000 customers per day within one year, through digital innovation
++ Drove customer acquisition of defunct Diamond Bank of Nigeria from about 1000 customers per day to over 12000 customers per day within one year, through digital innovation
 + Led implementation of the first fingerprint biometric customer identity solution for in-branch banking services in Nigeria.
 + co-founded a Tech company named Innovantics in Nigeria. Innovantics is a bespoke software house that has created solutions across different industry verticals and is still a going concern
 
