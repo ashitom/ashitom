@@ -15,3 +15,5 @@ Algorithms and tools that explore data and uncover patterns that have business v
 # Let's Connect
 [![twitter](https://user-images.githubusercontent.com/84896110/233870255-b57ecbcc-b9c4-4459-961b-7cd45f6b2064.png)](https://twitter.com/anafehashi)
 [![linkedin](https://user-images.githubusercontent.com/84896110/233870716-88e0e929-4d6e-4648-933e-2ae89bd250b8.png)](https://www.linkedin.com/in/anafeh/)
+[![web](https://user-images.githubusercontent.com/84896110/234762016-e3008be2-48da-46ca-b559-00225e670a6b.png)](https://ashitom.github.io/)
+
