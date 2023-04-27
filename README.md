@@ -1,8 +1,8 @@
 # Introduction 
 
-Thomas Ashi has 17+ years of digital transformation experience, starting out as a software developer, transitioned to Business Process Analyst/Project Manager and now a Data Scientist/Analyst.
+Thomas Ashi has 17+ years of digital transformation experience, starting out as a software developer, transitioned to Business Process Analyst/Project Manager and then to Data Scientist/Analyst.
 
-# Past Experience
+# Past Achievements
 
 + Developed first bespoke application for global trade, nicknamed Trade Tracker, in Nigeria's Banking Industry. 
 + Drove customer acquisition of defunct Diamond Bank of Nigeria, from about 1000 customers per day to over 12000 customers per day within one year, through digital innovation
